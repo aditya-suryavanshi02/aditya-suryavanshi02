@@ -208,19 +208,27 @@ Full Stack Developer • Java • React.js • Problem Solver
 
 <div align="center">
 
-<table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aditya-suryavanshi02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<tr>
+<img width="49%" src="https://streak-stats.demolab.com?user=aditya-suryavanshi02&theme=tokyonight&hide_border=true"/>
 
-<td align="center">
+</div>
 
-### 📈 GitHub Stats
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aditya-suryavanshi02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<div align="center">
 
-</td>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-suryavanshi02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<td align="center">
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-suryavanshi02&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ### 🔥 GitHub Streak
 
@@ -256,13 +264,13 @@ Full Stack Developer • Java • React.js • Problem Solver
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aditya-suryavanshi02&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aditya-suryavanshi02&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
 
-</p>
+</div>
 
 ---
 
